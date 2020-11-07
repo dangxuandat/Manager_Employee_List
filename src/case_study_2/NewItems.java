@@ -136,7 +136,5 @@ public class NewItems extends Vector<Item> {
         for(Item x : this){
             x.print();
         }
-
     }
 }
-
